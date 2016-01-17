@@ -9,4 +9,5 @@ This is kinda a test where I wanted to make a decent structure and library fetch
 So the library?
 ---------------
 
-[Echo](http://labstack.com/echo) A fast and unfancy micro web framework for Go.[mgo](https://labix.org/mgo) A mongoDB driver
+-	[Echo](http://labstack.com/echo) A fast and unfancy micro web framework for Go.
+-	[mgo](https://labix.org/mgo) A mongoDB driver
